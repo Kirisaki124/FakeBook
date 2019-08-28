@@ -1,0 +1,14 @@
+.background {
+  background-image: url('./image/background.jpg');
+  background-size: cover;
+  height: 800px;
+}
+
+.post:hover{
+  box-shadow: 0 5px 20px rgba(0,0,0,.8);
+  transform: translateZ(5px) scale(1.02);
+}
+
+.center {
+  align-items: center
+}
